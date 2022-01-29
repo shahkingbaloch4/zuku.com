@@ -91,12 +91,12 @@ print  """
 
 \033[1;93m              JAY FREE FIRE :)) 
 \033[1;95m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;94m➣ \033[1;96mHATERX FEEL ON RAKHO S DINO  (^o^) ..
+\033[1;94m➣ \033[1;96mHATERX FEEL ON RAKHO S.DINO (^o^) ..
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;92m➣ \033[1;92mDEVOLPER   :            BALOCH
+\033[1;92m➣ \033[1;92mDEVOLPER   :            DINO
 \033[1;91m➣ \033[1;92mFACEBOOK   :            SHAH DINO BALOCH
 \033[1;93m➣ \033[1;92mWHATSAPP   :            +923175889358
-\033[1;96m➣ \033[1;92mGITHUB     :                DINOKING
+\033[1;96m➣ \033[1;92mGITHUB     :                DINO.KING
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;92m➣ \033[1;96mNOTE IDS JUST NOW ON KARO ..
 \033[1;97mNOTE MULTIPLE SEARCH PLY STORE WAHA SE ON KARO             
@@ -107,28 +107,18 @@ print  """
 logo1 = """
 
 
-\033[1;91m'
-\033[1;93m.....                                           
-                                          
-`7MM"""Yb. `7MMF'`7MN.   `7MF' .g8""8q.   
-  MM    `Yb. MM    MMN.    M .dP'    `YM. 
-  MM     `Mb MM    M YMb   M dM'      `MM 
-  MM      MM MM    M  `MN. M MM        MM 
-  MM     ,MP MM    M   `MM.M MM.      ,MP 
-  MM    ,dP' MM    M     YMM `Mb.    ,dP' 
-.JMMmmmdP' .JMML..JML.    YM   `"bmmd"'   
-                                          
-                                          
-\033[1;92m:::: 
-\033[1;94m::: 
-\033[1;95m: 
-\033[1;96m 
- \033[1;97m 
+\033[1;91m'########:'########:'########:'##:::'##::'#######::
+\033[1;93m..... ##:: ##.....:: ##.....:: ##::'##::'##.... ##:
+\033[1;92m:::: ##::: ##::::::: ##::::::: ##:'##::: ##:::: ##:
+\033[1;94m::: ##:::: ######::: ######::: #####:::: ##:::: ##:
+\033[1;95m: ##::::: ##...:::: ##...:::: ##. ##::: ##:::: ##:
+\033[1;96m :##:::::: ##::::::: ##::::::: ##:. ##:: ##:::: ##:
+ \033[1;97m :########: ########: ########: ##::. ##:. #######::
 ........::........::........::..::::..:::.......:::　 
-\033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••
-\033[1;93m➣ \033[1;96mS DINO SISTIM FUCKER ..
+\033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
+\033[1;93m➣ \033[1;96mS_DINO FUCKER ..
 \033[1;94m•••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;95m➣ DEVOLPER     :        BALOCH
+\033[1;95m➣ DEVOLPER     :        DINO KING
 \033[1;96m➣ FACEBOOK     :        SHAH DINO BALOCH
 \033[1;94m➣ GITHUB       :            DINOKING
 \033[1;97m➣ WHATAAPP     :        +923175889358
@@ -138,22 +128,12 @@ logo1 = """
 """
 logo2 = """
 \033[1;91mBALOCH KING OF KANDHKOT
-\033[1;92m 
-\033[1;93m                                           
-                                          
-`7MM"""Yb. `7MMF'`7MN.   `7MF' .g8""8q.   
-  MM    `Yb. MM    MMN.    M .dP'    `YM. 
-  MM     `Mb MM    M YMb   M dM'      `MM 
-  MM      MM MM    M  `MN. M MM        MM 
-  MM     ,MP MM    M   `MM.M MM.      ,MP 
-  MM    ,dP' MM    M     YMM `Mb.    ,dP' 
-.JMMmmmdP' .JMML..JML.    YM   `"bmmd"'   
-                                          
-                                          
-\033[1;94m 
-\033[1;95m 
- \033[1;96m
- \033[1;97m
+\033[1;92m  ____          _      ____   _____ _    _ 
+\033[1;93m |  _ \   /\   | |    / __ \ / ____| |  | |
+\033[1;94m | |_) | /  \  | |   | |  | | |    | |__| |
+\033[1;95m |  _ < / /\ \ | |   | |  | | |    |  __  |
+ \033[1;96m| |_) / ____ \| |___| |__| | |____| |  | |
+ \033[1;97m|____/_/    \_\______\____/ \_____|_|  |_|
                                            
                                            
 
@@ -165,7 +145,7 @@ logo2 = """
 \033[1;92m➣ \033[1;93mFACEBOOK  :   \033[1;97mSHAH DINO BALOCH
 \033[1;93m➣ \033[1;91mWHATSAPP  :   \033[1;97m+923175889358
 \033[1;94m➣ \033[1;96mGITHUB    :   \033[1;97mDINOKING
-\033[1;96m➣ \033[1;92mLEGAND PLYEER       :   \033[1;97mALI RAZA MALIK
+\033[1;96m➣ \033[1;92mLEGAND PLYEER       :   \033[1;97mDINO BALOCH
 \033[1;91m➣ \033[1;93mVERSION   :   \033[1;97m1.0.8
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91m➣ \033[1;93mCP IDS JUST NOW OPEN..
@@ -180,7 +160,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;92m➣ \x1b[1;93mTOOL PASSWORD \x1b[1;97m»» \x1b[1;97m ")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:THE ZEEKO
+            print "Logged in successfully as " + username #Dev:THE DINO
 	    time.sleep(2)
             loop = 'false'
         else:
